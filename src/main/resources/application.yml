@@ -1,0 +1,19 @@
+server:
+  port: 9003
+
+spring:
+  application:
+    name: tr-search-service
+  elasticsearch:
+    uris: http://localhost:9200
+    connection-timeout: 2s
+    socket-timeout: 5s
+    host: localhost
+    port: 9200
+    scheme: http
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v3/api-docs
