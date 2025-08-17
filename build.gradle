@@ -2,6 +2,7 @@ plugins {
     id 'java'
     id 'org.springframework.boot' version '3.5.4'
     id 'io.spring.dependency-management' version '1.1.7'
+    id 'jacoco'
 }
 
 group = 'com.trevari.spring'
@@ -39,4 +40,63 @@ dependencies {
 
 tasks.named('test') {
     useJUnitPlatform()
+    finalizedBy 'jacocoTestReport', 'jacocoTestCoverageVerification'
+}
+
+jacoco { toolVersion = "0.8.13" }
+
+/**
+ * ✅ application/*만 커버리지 측정
+ */
+def serviceClassIncludes = ['**/application/*.class', '**/application/**/*.class']
+def classesDirProvider = layout.buildDirectory.dir("classes/java/main")
+
+tasks.named('jacocoTestReport', JacocoReport) {
+    dependsOn tasks.test
+    reports {
+        xml.required = true
+        html.required = true
+        csv.required = false
+    }
+    classDirectories.setFrom(
+            files(
+                    classesDirProvider.map { dir ->
+                        fileTree(dir) { include serviceClassIncludes }
+                    }
+            )
+    )
+}
+
+tasks.named('jacocoTestCoverageVerification', JacocoCoverageVerification) {
+    classDirectories.setFrom(
+            files(
+                    classesDirProvider.map { dir ->
+                        fileTree(dir) { include serviceClassIncludes }
+                    }
+            )
+    )
+    violationRules {
+        rule {
+            element = 'BUNDLE'
+            // ✅ 라인 커버리지 최소 50%
+            limit {
+                counter = 'LINE'
+                value   = 'COVEREDRATIO'
+                minimum = 0.30
+            }
+            // ✅ 분기 커버리지 최소 50%
+            limit {
+                counter = 'BRANCH'
+                value   = 'COVEREDRATIO'
+                minimum = 0.30
+            }
+        }
+    }
+}
+
+// 리포트만 보고 싶을 때
+tasks.register('coverage') {
+    group = 'verification'
+    description = 'Runs tests and generates JaCoCo coverage reports (application/* only)'
+    dependsOn 'test', 'jacocoTestReport'
 }
