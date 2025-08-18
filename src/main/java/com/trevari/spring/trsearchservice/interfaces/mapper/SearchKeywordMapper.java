@@ -6,17 +6,17 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class SearchKeywordMapper {
-    public SearchKeywordEntity toEntity(SearchKeyword d) {
-        return SearchKeywordEntity.builder()
-                .keyword(d.getKeyword())
-                .cnt(d.getCount())
-                .build();
+    public SearchKeyword toDomain(SearchKeywordEntity e) {
+        return new SearchKeyword(
+                e.getKeyword(),
+                e.getCnt()
+        );
     }
 
-    public SearchKeyword toDomain(SearchKeywordEntity e) {
-        return SearchKeyword.builder()
-                .keyword(e.getKeyword())
-                .count(e.getCnt())
+    public SearchKeywordEntity toEntity(SearchKeyword d) {
+        return SearchKeywordEntity.builder()
+                .keyword(d.keyword())
+                .cnt(d.cnt())
                 .build();
     }
 }
