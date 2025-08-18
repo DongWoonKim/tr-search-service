@@ -1,0 +1,902 @@
+[
+  {
+    "isbn": "9781492077992",
+    "title": "Designing Data-Intensive Applications",
+    "subtitle": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+    "author": "Martin Kleppmann",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2017-04-21",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780134685991",
+    "title": "Effective Java",
+    "subtitle": "A Programming Language Guide",
+    "author": "Joshua Bloch",
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2018-01-06",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780321765723",
+    "title": "The C++ Programming Language",
+    "subtitle": "4th Edition",
+    "author": "Bjarne Stroustrup",
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2013-05-19",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781449331818",
+    "title": "Fluent Python",
+    "subtitle": "Clear, Concise, and Effective Programming",
+    "author": "Luciano Ramalho",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2015-08-20",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780132350884",
+    "title": "Clean Code",
+    "subtitle": "A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "publishedDate": "2008-08-11",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780201633610",
+    "title": "Design Patterns",
+    "subtitle": "Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma",
+    "publisher": "Addison-Wesley",
+    "publishedDate": "1994-11-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780135957059",
+    "title": "The Pragmatic Programmer",
+    "subtitle": "Your Journey to Mastery, 20th Anniversary Edition",
+    "author": "David Thomas",
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2019-09-13",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781934356590",
+    "title": "The Phoenix Project",
+    "subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
+    "author": "Gene Kim",
+    "publisher": "IT Revolution Press",
+    "publishedDate": "2013-01-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780596007126",
+    "title": "JavaScript: The Good Parts",
+    "subtitle": "Unearthing the Excellence in JavaScript",
+    "author": "Douglas Crockford",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2008-05-15",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492056348",
+    "title": "Fundamentals of Data Engineering",
+    "subtitle": "Plan and Build Robust Data Systems",
+    "author": "Joe Reis",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2022-06-14",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "subtitle": "A Novel",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publishedDate": "2004-09-30",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "subtitle": "A Novel",
+    "author": "Harper Lee",
+    "publisher": "Harper Perennial",
+    "publishedDate": "2006-05-23",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "subtitle": "A Novel",
+    "author": "George Orwell",
+    "publisher": "Signet Classics",
+    "publishedDate": "1961-01-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "subtitle": "A Novel",
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "1991-05-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780679783268",
+    "title": "The Lord of the Rings",
+    "subtitle": "One Volume",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Mariner Books",
+    "publishedDate": "2005-09-21",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307277671",
+    "title": "The Road",
+    "subtitle": "A Novel",
+    "author": "Cormac McCarthy",
+    "publisher": "Vintage",
+    "publishedDate": "2007-03-27",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385504201",
+    "title": "The Kite Runner",
+    "subtitle": "A Novel",
+    "author": "Khaled Hosseini",
+    "publisher": "Riverhead Books",
+    "publishedDate": "2004-04-27",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143124177",
+    "title": "The Alchemist",
+    "subtitle": "A Fable About Following Your Dream",
+    "author": "Paulo Coelho",
+    "publisher": "HarperOne",
+    "publishedDate": "2014-04-15",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780743273566",
+    "title": "Pride and Prejudice",
+    "subtitle": "A Novel",
+    "author": "Jane Austen",
+    "publisher": "Penguin Classics",
+    "publishedDate": "2002-12-31",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780345391803",
+    "title": "Cosmos",
+    "subtitle": "A Personal Voyage",
+    "author": "Carl Sagan",
+    "publisher": "Ballantine Books",
+    "publishedDate": "2013-02-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307278128",
+    "title": "Sapiens",
+    "subtitle": "A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publisher": "Harper",
+    "publishedDate": "2015-02-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143111582",
+    "title": "Thinking, Fast and Slow",
+    "subtitle": "How We Make Choices",
+    "author": "Daniel Kahneman",
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "2011-10-25",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385534017",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "subtitle": "A Story of Modern Medicine",
+    "author": "Rebecca Skloot",
+    "publisher": "Crown",
+    "publishedDate": "2010-02-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781591846286",
+    "title": "Zero to One",
+    "subtitle": "Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel",
+    "publisher": "Currency",
+    "publishedDate": "2014-09-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781594205871",
+    "title": "Hillbilly Elegy",
+    "subtitle": "A Memoir of a Family and Culture in Crisis",
+    "author": "J.D. Vance",
+    "publisher": "Harper",
+    "publishedDate": "2016-06-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781591847849",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "subtitle": "A Counterintuitive Approach to Living a Good Life",
+    "author": "Mark Manson",
+    "publisher": "Harper",
+    "publishedDate": "2016-09-13",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780735211292",
+    "title": "Atomic Habits",
+    "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "author": "James Clear",
+    "publisher": "Avery",
+    "publishedDate": "2018-10-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385545952",
+    "title": "Educated",
+    "subtitle": "A Memoir",
+    "author": "Tara Westover",
+    "publisher": "Random House",
+    "publishedDate": "2018-02-20",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780525542721",
+    "title": "The Body Keeps the Score",
+    "subtitle": "Brain, Mind, and Body in the Healing of Trauma",
+    "author": "Bessel van der Kolk",
+    "publisher": "Penguin Books",
+    "publishedDate": "2015-09-08",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780321812111",
+    "title": "Go Programming Language",
+    "subtitle": "The Go Programming Language",
+    "author": "Alan A. A. Donovan",
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2015-10-26",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492041184",
+    "title": "Learning Spark",
+    "subtitle": "Lightning-Fast Data Analytics",
+    "author": "Jules S. Damji",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2020-05-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492050247",
+    "title": "Kubernetes: Up and Running",
+    "subtitle": "Dive into the Future of Infrastructure",
+    "author": "Kelsey Hightower",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2019-09-24",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491904244",
+    "title": "You Don't Know JS: Scope & Closures",
+    "subtitle": "A Deep Dive into JavaScript",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2014-03-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781617292545",
+    "title": "Grokking Algorithms",
+    "subtitle": "An Illustrated Guide for Programmers",
+    "author": "Aditya Bhargava",
+    "publisher": "Manning Publications",
+    "publishedDate": "2016-05-20",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491958865",
+    "title": "Building Microservices",
+    "subtitle": "Designing Fine-Grained Systems",
+    "author": "Sam Newman",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2015-02-20",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780134494166",
+    "title": "Clean Architecture",
+    "subtitle": "A Craftsman's Guide to Software Structure",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "publishedDate": "2017-09-20",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780137081073",
+    "title": "Working Effectively with Legacy Code",
+    "subtitle": "A Guide to Better Software Design",
+    "author": "Michael C. Feathers",
+    "publisher": "Prentice Hall",
+    "publishedDate": "2004-09-22",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492042235",
+    "title": "Designing Web APIs",
+    "subtitle": "Building APIs That Developers Love",
+    "author": "Brenda Jin",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2018-09-25",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492034025",
+    "title": "Kafka: The Definitive Guide",
+    "subtitle": "Real-Time Data and Stream Processing",
+    "author": "Gwen Shapira",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2017-07-18",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780679764029",
+    "title": "Dune",
+    "subtitle": "A Science Fiction Novel",
+    "author": "Frank Herbert",
+    "publisher": "Ace Books",
+    "publishedDate": "2005-08-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780345339737",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "subtitle": "A Trilogy in Five Parts",
+    "author": "Douglas Adams",
+    "publisher": "Del Rey",
+    "publishedDate": "1995-09-27",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780553380163",
+    "title": "A Brief History of Time",
+    "subtitle": "From the Big Bang to Black Holes",
+    "author": "Stephen Hawking",
+    "publisher": "Bantam",
+    "publishedDate": "1998-09-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780316017930",
+    "title": "The Martian",
+    "subtitle": "A Novel",
+    "author": "Andy Weir",
+    "publisher": "Crown",
+    "publishedDate": "2014-02-11",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307887436",
+    "title": "Ready Player One",
+    "subtitle": "A Novel",
+    "author": "Ernest Cline",
+    "publisher": "Crown",
+    "publishedDate": "2011-08-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385537650",
+    "title": "The Girl on the Train",
+    "subtitle": "A Novel",
+    "author": "Paula Hawkins",
+    "publisher": "Riverhead Books",
+    "publishedDate": "2015-01-13",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307588371",
+    "title": "Gone Girl",
+    "subtitle": "A Novel",
+    "author": "Gillian Flynn",
+    "publisher": "Crown",
+    "publishedDate": "2012-06-05",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781451673319",
+    "title": "The Fault in Our Stars",
+    "subtitle": "A Novel",
+    "author": "John Green",
+    "publisher": "Dutton Books",
+    "publishedDate": "2012-01-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781501175466",
+    "title": "Where the Crawdads Sing",
+    "subtitle": "A Novel",
+    "author": "Delia Owens",
+    "publisher": "G.P. Putnam's Sons",
+    "publishedDate": "2018-08-14",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780735219090",
+    "title": "The Silent Patient",
+    "subtitle": "A Novel",
+    "author": "Alex Michaelides",
+    "publisher": "Celadon Books",
+    "publishedDate": "2019-02-05",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780393245772",
+    "title": "Freakonomics",
+    "subtitle": "A Rogue Economist Explores the Hidden Side",
+    "author": "Steven D. Levitt",
+    "publisher": "William Morrow",
+    "publishedDate": "2005-04-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780316017923",
+    "title": "Outliers",
+    "subtitle": "The Story of Success",
+    "author": "Malcolm Gladwell",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "2008-11-18",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781591842226",
+    "title": "Nudge",
+    "subtitle": "Improving Decisions About Health, Wealth, and Happiness",
+    "author": "Richard H. Thaler",
+    "publisher": "Yale University Press",
+    "publishedDate": "2008-04-08",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143126560",
+    "title": "The Power of Habit",
+    "subtitle": "Why We Do What We Do in Life and Business",
+    "author": "Charles Duhigg",
+    "publisher": "Random House",
+    "publishedDate": "2012-02-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781591847788",
+    "title": "Grit",
+    "subtitle": "The Power of Passion and Perseverance",
+    "author": "Angela Duckworth",
+    "publisher": "Scribner",
+    "publishedDate": "2016-05-03",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307348129",
+    "title": "The Tipping Point",
+    "subtitle": "How Little Things Can Make a Big Difference",
+    "author": "Malcolm Gladwell",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "2000-03-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143116242",
+    "title": "Quiet",
+    "subtitle": "The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "publisher": "Crown",
+    "publishedDate": "2012-01-24",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781591846446",
+    "title": "Mindset",
+    "subtitle": "The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "publisher": "Random House",
+    "publishedDate": "2006-02-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143127741",
+    "title": "Daring Greatly",
+    "subtitle": "How the Courage to Be Vulnerable Transforms the Way We Live",
+    "author": "Brené Brown",
+    "publisher": "Avery",
+    "publishedDate": "2012-09-11",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307592804",
+    "title": "The 7 Habits of Highly Effective People",
+    "subtitle": "Powerful Lessons in Personal Change",
+    "author": "Stephen R. Covey",
+    "publisher": "Free Press",
+    "publishedDate": "1989-08-15",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491904220",
+    "title": "You Don't Know JS: this & Object Prototypes",
+    "subtitle": "A Deep Dive into JavaScript",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2014-07-27",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781449365110",
+    "title": "You Don't Know JS: Async & Performance",
+    "subtitle": "A Deep Dive into JavaScript",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2015-03-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492043584",
+    "title": "Site Reliability Engineering",
+    "subtitle": "How Google Runs Production Systems",
+    "author": "Betsy Beyer",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2016-04-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491929124",
+    "title": "The Site Reliability Workbook",
+    "subtitle": "Practical Ways to Implement SRE",
+    "author": "Betsy Beyer",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2018-08-03",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492042259",
+    "title": "Database Internals",
+    "subtitle": "A Deep Dive into How Distributed Data Systems Work",
+    "author": "Alex Petrov",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2019-09-24",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491906354",
+    "title": "Head First Design Patterns",
+    "subtitle": "A Brain-Friendly Guide",
+    "author": "Eric Freeman",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2004-10-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492032649",
+    "title": "Python for Data Analysis",
+    "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+    "author": "Wes McKinney",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2017-10-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781491912058",
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow",
+    "subtitle": "Build Intelligent Systems",
+    "author": "Aurélien Géron",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2019-10-15",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781492031123",
+    "title": "Deep Learning with Python",
+    "subtitle": "A Guide to Deep Learning",
+    "author": "Francois Chollet",
+    "publisher": "Manning Publications",
+    "publishedDate": "2017-11-21",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781617293290",
+    "title": "Spring in Action",
+    "subtitle": "5th Edition",
+    "author": "Craig Walls",
+    "publisher": "Manning Publications",
+    "publishedDate": "2018-11-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780439023481",
+    "title": "The Hunger Games",
+    "subtitle": "A Novel",
+    "author": "Suzanne Collins",
+    "publisher": "Scholastic Press",
+    "publishedDate": "2008-09-14",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780439554930",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "subtitle": "A Novel",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic Inc.",
+    "publishedDate": "1998-09-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780316067938",
+    "title": "The Help",
+    "subtitle": "A Novel",
+    "author": "Kathryn Stockett",
+    "publisher": "G.P. Putnam's Sons",
+    "publishedDate": "2009-02-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781400032716",
+    "title": "The Da Vinci Code",
+    "subtitle": "A Novel",
+    "author": "Dan Brown",
+    "publisher": "Anchor",
+    "publishedDate": "2006-03-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307348136",
+    "title": "Water for Elephants",
+    "subtitle": "A Novel",
+    "author": "Sara Gruen",
+    "publisher": "Algonquin Books",
+    "publishedDate": "2006-05-26",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781594489501",
+    "title": "The Book Thief",
+    "subtitle": "A Novel",
+    "author": "Markus Zusak",
+    "publisher": "Alfred A. Knopf",
+    "publishedDate": "2005-09-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307743666",
+    "title": "The Handmaid's Tale",
+    "subtitle": "A Novel",
+    "author": "Margaret Atwood",
+    "publisher": "Anchor",
+    "publishedDate": "1998-03-16",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781501160912",
+    "title": "It Ends with Us",
+    "subtitle": "A Novel",
+    "author": "Colleen Hoover",
+    "publisher": "Atria Books",
+    "publishedDate": "2016-08-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781476746586",
+    "title": "All the Light We Cannot See",
+    "subtitle": "A Novel",
+    "author": "Anthony Doerr",
+    "publisher": "Scribner",
+    "publishedDate": "2014-05-06",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780735222359",
+    "title": "Circe",
+    "subtitle": "A Novel",
+    "author": "Madeline Miller",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "2018-04-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780143127550",
+    "title": "The Goldfinch",
+    "subtitle": "A Novel",
+    "author": "Donna Tartt",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "2013-10-22",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385547345",
+    "title": "The Testaments",
+    "subtitle": "The Sequel to The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "publisher": "Nan A. Talese",
+    "publishedDate": "2019-09-10",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781524763138",
+    "title": "An American Marriage",
+    "subtitle": "A Novel",
+    "author": "Tayari Jones",
+    "publisher": "Algonquin Books",
+    "publishedDate": "2018-02-06",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780525522563",
+    "title": "Little Fires Everywhere",
+    "subtitle": "A Novel",
+    "author": "Celeste Ng",
+    "publisher": "Penguin Press",
+    "publishedDate": "2017-09-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385542043",
+    "title": "Becoming",
+    "subtitle": "A Memoir",
+    "author": "Michelle Obama",
+    "publisher": "Crown",
+    "publishedDate": "2018-11-13",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780399590504",
+    "title": "The Vanishing Half",
+    "subtitle": "A Novel",
+    "author": "Brit Bennett",
+    "publisher": "Riverhead Books",
+    "publishedDate": "2020-06-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781984855139",
+    "title": "The Midnight Library",
+    "subtitle": "A Novel",
+    "author": "Matt Haig",
+    "publisher": "Viking",
+    "publishedDate": "2020-09-29",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780593335825",
+    "title": "Klara and the Sun",
+    "subtitle": "A Novel",
+    "author": "Kazuo Ishiguro",
+    "publisher": "Knopf",
+    "publishedDate": "2021-03-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780593318293",
+    "title": "Project Hail Mary",
+    "subtitle": "A Novel",
+    "author": "Andy Weir",
+    "publisher": "Ballantine Books",
+    "publishedDate": "2021-05-04",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385549424",
+    "title": "The Lincoln Highway",
+    "subtitle": "A Novel",
+    "author": "Amor Towles",
+    "publisher": "Viking",
+    "publishedDate": "2021-10-05",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385547369",
+    "title": "Cloud Cuckoo Land",
+    "subtitle": "A Novel",
+    "author": "Anthony Doerr",
+    "publisher": "Scribner",
+    "publishedDate": "2021-09-28",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780385548922",
+    "title": "The Four Winds",
+    "subtitle": "A Novel",
+    "author": "Kristin Hannah",
+    "publisher": "St. Martin's Press",
+    "publishedDate": "2021-02-02",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9781668016138",
+    "title": "Lessons in Chemistry",
+    "subtitle": "A Novel",
+    "author": "Bonnie Garmus",
+    "publisher": "Doubleday",
+    "publishedDate": "2022-04-05",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780593441269",
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "subtitle": "A Novel",
+    "author": "Gabrielle Zevin",
+    "publisher": "Knopf",
+    "publishedDate": "2022-07-05",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307887894",
+    "title": "The Lean Startup",
+    "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "author": "Eric Ries",
+    "publisher": "Crown Business",
+    "publishedDate": "2011-09-13",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780060850524",
+    "title": "Brave New World",
+    "subtitle": "A Novel",
+    "author": "Aldous Huxley",
+    "publisher": "Harper Perennial Modern Classics",
+    "publishedDate": "2006-10-17",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780743247221",
+    "title": "Fahrenheit 451",
+    "subtitle": "A Novel",
+    "author": "Ray Bradbury",
+    "publisher": "Simon & Schuster",
+    "publishedDate": "2003-01-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780618260300",
+    "title": "The Hobbit",
+    "subtitle": "Or, There and Back Again",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2002-08-15",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780307947307",
+    "title": "The Stand",
+    "subtitle": "The Complete and Uncut Edition",
+    "author": "Stephen King",
+    "publisher": "Anchor",
+    "publishedDate": "2012-06-12",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780553381689",
+    "title": "A Game of Thrones",
+    "subtitle": "A Song of Ice and Fire, Book 1",
+    "author": "George R.R. Martin",
+    "publisher": "Bantam",
+    "publishedDate": "2005-08-01",
+    "imageUrl": null
+  },
+  {
+    "isbn": "9780156028356",
+    "title": "The Color Purple",
+    "subtitle": "A Novel",
+    "author": "Alice Walker",
+    "publisher": "Mariner Books",
+    "publishedDate": "2003-05-27",
+    "imageUrl": null
+  }
+]
