@@ -1,4 +1,4 @@
-package com.trevari.spring.trsearchservice.infrastructure.search;
+package com.trevari.spring.trsearchservice.infrastructure.persistence;
 
 import co.elastic.clients.elasticsearch.ElasticsearchClient;
 import co.elastic.clients.json.jackson.JacksonJsonpMapper;

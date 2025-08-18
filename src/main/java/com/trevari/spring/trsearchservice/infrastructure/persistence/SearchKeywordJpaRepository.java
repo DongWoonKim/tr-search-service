@@ -1,4 +1,6 @@
 package com.trevari.spring.trsearchservice.infrastructure.persistence;
 
-public interface SearchKeywordJpaRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface SearchKeywordJpaRepository extends JpaRepository<SearchKeywordEntity, Long> {
 }

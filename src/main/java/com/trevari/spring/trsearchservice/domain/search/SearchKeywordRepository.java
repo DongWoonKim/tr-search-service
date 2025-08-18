@@ -1,4 +1,5 @@
 package com.trevari.spring.trsearchservice.domain.search;
 
-public class SearchKeywordRepository {
+public interface SearchKeywordRepository {
+    SearchKeyword save(SearchKeyword keyword);
 }
