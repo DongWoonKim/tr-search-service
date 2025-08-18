@@ -17,12 +17,11 @@ spring:
         format_sql: true
     show-sql: true
   elasticsearch:
-    uris: http://localhost:9200
     connection-timeout: 2s
     socket-timeout: 5s
-    host: localhost
-    port: 9200
-    scheme: http
+    host: ${SPRING_ELASTICSEARCH_HOST:localhost}
+    port: ${SPRING_ELASTICSEARCH_PORT:9200}
+    scheme: ${SPRING_ELASTICSEARCH_SCHEME:http}
 
 springdoc:
   swagger-ui:
