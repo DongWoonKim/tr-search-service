@@ -5,12 +5,18 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.trevari.spring.trsearchservice.infrastructure.persistence.BookDoc;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.stereotype.Component;
 
 import java.io.InputStream;
 import java.util.List;
 
 @Component
+@ConditionalOnProperty(
+        value = "search.index.init.enabled",
+        havingValue = "true",
+        matchIfMissing = true
+)
 @RequiredArgsConstructor
 public class BookIndexInitializer implements CommandLineRunner {
     private static final String INDEX = "books";
