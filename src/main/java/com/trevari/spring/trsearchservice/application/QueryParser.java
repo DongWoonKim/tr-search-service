@@ -71,7 +71,7 @@ public class QueryParser {
                 Collections.unmodifiableSet(must),
                 shouldGroups.stream()
                         .map(set -> Collections.unmodifiableSet(new LinkedHashSet<>(set)))
-                        .collect(Collectors.toUnmodifiableList()),
+                        .toList(),
                 Collections.unmodifiableSet(mustNot)
         );
     }
