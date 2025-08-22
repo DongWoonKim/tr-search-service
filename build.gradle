@@ -86,13 +86,13 @@ tasks.named('jacocoTestCoverageVerification', JacocoCoverageVerification) {
             limit {
                 counter = 'LINE'
                 value   = 'COVEREDRATIO'
-                minimum = 0.30
+                minimum = 0.50
             }
             // ✅ 분기 커버리지 최소 50%
             limit {
                 counter = 'BRANCH'
                 value   = 'COVEREDRATIO'
-                minimum = 0.30
+                minimum = 0.50
             }
         }
     }
