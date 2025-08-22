@@ -1,6 +1,5 @@
 package com.trevari.spring.trsearchservice.infrastructure.persistence;
 
-import com.trevari.spring.trsearchservice.domain.search.SearchKeyword;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
