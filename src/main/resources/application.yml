@@ -23,6 +23,11 @@ spring:
     port: ${SPRING_ELASTICSEARCH_PORT:9200}
     scheme: ${SPRING_ELASTICSEARCH_SCHEME:http}
 
+search:
+  index:
+    init:
+      enabled: ${SEARCH_INDEX_INIT_ENABLED:false}
+
 springdoc:
   swagger-ui:
     path: /swagger-ui.html

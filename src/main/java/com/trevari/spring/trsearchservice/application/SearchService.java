@@ -99,8 +99,7 @@ public class SearchService {
                 }));
             }
             for (String term : pq.mustNot()) {
-                b.mustNot(mn -> mn.multiMatch(mm -> multiMatch(term)
-                        .fields(List.of("title","subtitle","author","publisher","isbn"))));
+                b.mustNot(mn -> mn.multiMatch(mm -> multiMatch(term) ));
             }
             return b;
         };
