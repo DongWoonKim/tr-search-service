@@ -3,7 +3,7 @@
 `tr-search-service`는 **도서 검색(Search)** 기능을 제공하는 서비스로,  
 사용자가 입력한 키워드를 기반으로 도서를 빠르고 효율적으로 탐색할 수 있도록 지원합니다.  
 
-이 서비스는 **검색 최적화(Search Optimization)**에 초점을 두며,  
+이 서비스는 **검색 최적화(Search Optimization)** 에 초점을 두며,  
 인기검색어 TOP10, 논리 연산자(OR/NOT), 페이지네이션 등 검색 기능을 제공합니다.  
 
 이를 통해 사용자는 **도서 목록 검색** 및 **조건 기반 탐색** 기능을 편리하게 이용할 수 있습니다.
@@ -98,7 +98,7 @@ resources
             - SearchKeyword : 실제로 사용자가 입력한 검색어를 도메인 객체로 표현
 
  - infrastructure/persistence : 도메인 모델을 실제 저장소(Elasticsearch, DB)와 연결하는 역할을 담당합니다.
-    - BookDoc : Elasticsearch(ES)에 색인되는 **도서 문서(Document)**를 정의합니다.
+    - BookDoc : Elasticsearch(ES)에 색인되는 **도서 문서(Document)** 를 정의합니다.
     - SearchKeywordRepositoryAdapter : 도메인 레벨에서 정의된 SearchKeywordRepository 인터페이스의 구현체(Adapter).
                               SearchKeywordJpaRepositor를 내부에서 사용하면서도, 도메인 계층은 오직 SearchKeywordRepository 인터페이스만 바라보도록 만들어 관심사 분리를 달성합니다.
                               -> 이를 통해 도메인 계층과 인프라 계층의 의존성 분리를 실현합니다.
